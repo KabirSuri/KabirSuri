@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @KabirSuri
 - 👀 I’m interested in Software Development, Game Development, AI, and Machine Learning
 - 🌱 I’m currently learning problem solving
-- 📫 surikabir@outlook.com
+- 📫 You can email me at: surikabir@outlook.com
 
 <!---
 KabirSuri/KabirSuri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
