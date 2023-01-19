@@ -1,4 +1,4 @@
-<a href="https://ibb.co/VWSs132" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="https://ibb.co/VWSs132" target="blank"><img align="center" src="https://ibb.co/VWSs132" height="100" /></a>
 - 👋 Hi, I’m @KabirSuri
 - 👀 I’m interested in Algorithms, Data Structures, IoT, Web Development, and Machine Learning
 - 🌱 I’m currently learning competitive programming and Bandit Algorithms
