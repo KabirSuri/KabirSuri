@@ -1,7 +1,7 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header]([https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header"](https://ibb.co/VWSs132))
 - 👋 Hi, I’m @KabirSuri
-- 👀 I’m interested in Software Development, Game Development, AI, and Machine Learning
-- 🌱 I’m currently learning problem solving
+- 👀 I’m interested in Algorithms, Data Structures, IoT, Web Development, and Machine Learning
+- 🌱 I’m currently learning competitive programming and Bandit Algorithms
 - 📫 You can email me at: surikabir@outlook.com
 
 <!---
