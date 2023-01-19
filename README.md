@@ -1,4 +1,4 @@
-<a href="DES03580.jpg" target="blank"><img align="center" src="DES03580.jpg" height="400" /></a>
+<img align="center" src="DES03580.jpg" height="400"/></a>
 - 👋 Hi, I’m @KabirSuri
 - 👀 I’m interested in Algorithms, Data Structures, IoT, Web Development, and Machine Learning
 - 🌱 I’m currently learning competitive programming and Bandit Algorithms
