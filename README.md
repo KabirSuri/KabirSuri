@@ -1,4 +1,4 @@
-[![Header]([https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header"](https://ibb.co/VWSs132))
+[![Header]([https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header"](https://ibb.co/VWSs132))]
 - 👋 Hi, I’m @KabirSuri
 - 👀 I’m interested in Algorithms, Data Structures, IoT, Web Development, and Machine Learning
 - 🌱 I’m currently learning competitive programming and Bandit Algorithms
