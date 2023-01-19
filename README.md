@@ -1,4 +1,4 @@
-[![Header]([https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header"](https://ibb.co/VWSs132))]
+<a href="[URL_REDIRECT](https://ibb.co/VWSs132)" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 - 👋 Hi, I’m @KabirSuri
 - 👀 I’m interested in Algorithms, Data Structures, IoT, Web Development, and Machine Learning
 - 🌱 I’m currently learning competitive programming and Bandit Algorithms
