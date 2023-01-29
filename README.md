@@ -27,7 +27,7 @@ I have participated in competitive programming since my sophomore year, currentl
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top">
 
 <div align="center">
 <img src="https://i.ibb.co/N6jMv7Z/DES03580.jpg" align="center" height="400" width="" />
@@ -42,12 +42,7 @@ I have participated in competitive programming since my sophomore year, currentl
 
 - ⚡ Fun fact: I love the electric guitar  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
