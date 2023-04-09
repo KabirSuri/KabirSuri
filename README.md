@@ -7,9 +7,6 @@
 <a href="https://www.facebook.com/kabir.suri.5099" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/_EatNuggets_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/kabir-suri-4293b9231" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
@@ -30,7 +27,7 @@ I have participated in competitive programming since my sophomore year, currentl
 <table><tr><td valign="top">
 
 <div align="center">
-<img src="https://i.ibb.co/N6jMv7Z/DES03580.jpg" align="center" height="400" width="" />
+![](DES03580.jpg)
 </div>  
   
 
