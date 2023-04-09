@@ -29,7 +29,7 @@ I have participated in competitive programming since my sophomore year, currentl
 <div align="center">
 </div>  
   
-  <img src="1v82022CharlieButt.png" width="100" height="100">
+  <img src="1v82022CharlieButt.png" width="500" height="500">
 
 - 🌱 I’m currently learning USACO Gold Algorithms and Bandit Algorithms  
   
