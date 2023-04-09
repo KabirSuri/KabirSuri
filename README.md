@@ -1,6 +1,5 @@
 ## Hey 👋, I'm Kabir Suri!  
 
-![](1v82022CharlieButt.png)
 
 <a href="https://github.com/KabirSuri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -69,3 +68,4 @@ I have participated in competitive programming since my sophomore year, currentl
 
 
 <br />
+![](1v82022CharlieButt.png)
