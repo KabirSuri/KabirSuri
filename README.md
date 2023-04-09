@@ -16,7 +16,7 @@
 ### Glad to see you here!  
 I’m a senior in high school. I'm a competitive programmer, game developer, and engineer.
 
-I have participated in competitive programming since my sophomore year, currently studying for the Platinum Divison of the USA Computing Olympiad. I have experience working with teams as a member of an Indie Game Development team, for which I also produce music for.  
+I have participated in competitive programming since my sophomore year, currently studying for the Gold Divison of the USA Computing Olympiad. I have experience working with teams as a member of an Indie Game Development team, for which I also produce music for.  
   
 
 <br/>  
@@ -29,7 +29,7 @@ I have participated in competitive programming since my sophomore year, currentl
 </div>  
   
 
-- 🌱 I’m currently learning USACO Plat Algorithms and Bandit Algorithms  
+- 🌱 I’m currently learning USACO Gold Algorithms and Bandit Algorithms  
   
 
 - ❓ Ask me about anything related to Time and Memory Complexity  
