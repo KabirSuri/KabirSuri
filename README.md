@@ -1,5 +1,4 @@
 ## Hey 👋, I'm Kabir Suri!  
-  ![](DES03580.jpg)
 
 <a href="https://github.com/KabirSuri" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -27,7 +26,6 @@ I have participated in competitive programming since my sophomore year, currentl
 <table><tr><td valign="top">
 
 <div align="center">
-![](DES03580.jpg)
 </div>  
   
 
