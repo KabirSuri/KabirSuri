@@ -15,9 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m a senior in high school. I'm a competitive programmer, game developer, and engineer.
-
-I have participated in competitive programming since my sophomore year, currently studying for the Gold Divison of the USA Computing Olympiad. I have experience working with teams as a member of an Indie Game Development team, for which I also produce music for.  
+I’m a first-year at the University of Virginia. I'm a competitive programmer, game developer, and engineer.
   
 
 <br/>  
