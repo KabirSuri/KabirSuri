@@ -20,16 +20,8 @@ I’m a first-year at the University of Virginia. I'm a competitive programmer, 
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top">
-
-<div align="center">
-</div>  
   
   <img src="1v82022CharlieButt.png">
-
-</tr></table>  
 
 <br/>  
 
