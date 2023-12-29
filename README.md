@@ -29,14 +29,6 @@ I’m a first-year at the University of Virginia. I'm a competitive programmer, 
   
   <img src="1v82022CharlieButt.png">
 
-- 🌱 I’m currently learning USACO Gold Algorithms and Bandit Algorithms  
-  
-
-- ❓ Ask me about anything related to Time and Memory Complexity  
-  
-
-- ⚡ Fun fact: I love the electric guitar  
-
 </tr></table>  
 
 <br/>  
