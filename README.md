@@ -21,7 +21,7 @@ I’m a first-year at the University of Virginia. I'm a rower, programmer, and g
 <br/>  
 
   
-  <img src="1v82022CharlieButt.png">
+  <img src="IconicShot.jpg">
 
 
 <br />
