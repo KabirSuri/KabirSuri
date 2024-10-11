@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I’m a first-year at the University of Virginia. I'm a rower, programmer, and guitarist.
+I’m a second-year at the University of Virginia. I'm a rower, programmer, and guitarist.
   
 
 <br/>  
